@@ -84,3 +84,5 @@ Soy estudiante de **8vo semestre de Ingeniería en Computación** en la **FES Ar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaaron_Emmanuel_Sánchez-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yaaron-emmanuel-s%C3%A1nchez-garc%C3%ADa-1805252a6/)
 
 
+
+
