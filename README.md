@@ -1,29 +1,29 @@
 # ¡Hola, soy Emmanuel! 👋 
-### Becario de Ciberseguridad | Entusiasta del Ethical Hacking | Analista de SOC en formación
+### Cybersecurity Intern | Ethical Hacking & Pentesting | SOC Analyst
 
-Estudiante de Ingeniería en Computación en la FES Aragón, UNAM (7mo semestre). Enfocado en la protección de activos digitales, respuesta a incidentes y el fortalecimiento de infraestructuras críticas. Actualmente gestiono entornos complejos y análisis de amenazas en tiempo real.
+Estudiante de Ingeniería en Computación en la FES Aragón, UNAM (8vo semestre) Y becario de ciberseguridad (Actualmente). Enfocado en la tríada de la seguridad: Ofensiva, Defensiva y Análisis. Actualmente gestiono infraestructuras críticas y realizo simulaciones de adversarios en entornos controlados.
 
 ---
 
 ### 🛡️ Enfoque Profesional y Capacidades
-- **Mentalidad de Analista:** Monitoreo y análisis de eventos en SIEM (**LogRhythm**), detección de intrusos y respuesta a incidentes.
-- **Seguridad Ofensiva:** Pruebas de penetración, Ethical Hacking y simulación de adversarios con **Caldera**, **escaneo de puertos**, **fuerza bruta**, **hashes** y **encriptacion.**
-- **Infraestructura:** Administración de servidores (Windows Server, Debian, Ubuntu) y virtualización avanzada con **ESXi VMware**.
-- **Power User de Linux:** Manejo avanzado de Kali Linux, Parrot OS, SUSE Enterprise y Micro.
+- **Seguridad Ofensiva & Pentesting:** Ejecución de pruebas de penetración y explotación de vulnerabilidades en máquinas víctimas (HackTheBox/TryHackMe/Laboratorios locales). Manejo de vectores de ataque, escalada de privilegios y post-explotación.
+- **Simulación de Adversarios:** Pruebas de alertas y ataques automatizados con **Caldera** para validar la postura de seguridad.
+- **Defensa & Monitoreo:** Configuración de SIEM (**LogRhythm**) desde cero, tuneo de alertas y análisis de telemetría con **CrowdStrike**.
+- **Infraestructura Crítica:** Administración de servidores (Windows Server, Debian, Ubuntu) y virtualización con **ESXi VMware**.
 
 ### 🛠️ Stack Tecnológico y Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=kali-linux&logoColor=white" alt="Kali">
-  <img src="https://img.shields.io/badge/OS-SUSE-Standard?logo=suse&logoColor=white" alt="SUSE">
+  <img src="https://img.shields.io/badge/Pentest-Metasploit-red" alt="Metasploit">
   <img src="https://img.shields.io/badge/SIEM-LogRhythm-orange" alt="LogRhythm">
   <img src="https://img.shields.io/badge/EDR-CrowdStrike-red?logo=crowdstrike&logoColor=white" alt="CrowdStrike">
   <img src="https://img.shields.io/badge/Virt-VMware%20ESXi-607078?logo=vmware&logoColor=white" alt="VMware">
 </p>
 
-### 🔬 Proyectos Clave y Experiencia
-- **Orquestación de SIEM:** Configuración desde cero y ajuste (*tuning*) de alertas para reducción de falsos positivos.
-- **Arquitectura de Logs:** Implementación de sistemas de reenvío de logs multiplataforma (Enterprise a Micro) con reporte redundante.
-- **Emulación de Adversarios:** Ejecución de campañas de ataque automatizadas con Caldera para validación de defensas.
+### 🔬 Proyectos de Seguridad y Laboratorios
+- **Pentesting Lab:** Explotación de máquinas víctimas mediante técnicas de SQLi, RCE y Brute Force en entornos controlados.
+- **Arquitectura de Logs:** Sistema de reenvío de logs multiplataforma (Enterprise a Micro) con reporte redundante a 3 nodos.
+- **SIEM Deployment:** Implementación completa de un SIEM desde 0, incluyendo la ingesta de logs y creación de reglas de detección.
 
 ---
 
