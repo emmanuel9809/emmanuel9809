@@ -38,4 +38,4 @@ Estudiante de Ingeniería en Computación en la FES Aragón, UNAM (8vo semestre)
 ---
 
 ### 📨 Conecta conmigo:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel9809)
+[![linkedin](https://www.linkedin.com/in/yaaron-emmanuel-s%C3%A1nchez-garc%C3%ADa-1805252a6/)
