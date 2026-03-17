@@ -1,4 +1,4 @@
-# ¡Hola, soy Emmanuel! 👋 
+# ¡Hola soy Emmanuel! 👋 
 ### Cybersecurity Intern | Ethical Hacking & Pentesting | SOC Analyst
 
 Estudiante de Ingeniería en Computación en la FES Aragón, UNAM (8vo semestre) Y becario de ciberseguridad (Actualmente). Enfocado en la tríada de la seguridad: Ofensiva, Defensiva y Análisis. Actualmente gestiono infraestructuras críticas y realizo simulaciones de adversarios en entornos controlados.
